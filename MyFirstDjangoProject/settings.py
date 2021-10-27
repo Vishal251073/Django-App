@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-!3g5jdh@9o8t=0%gaaheab#vg4bbby^3ci$2#pgehwh4##v+0q
 DEBUG = False
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://icoder-study-zone.herokuapp.com/','localhost','127.0.0.1']
 
 
 # Application definition
